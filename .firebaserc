@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "facebook-clone-707jk": {
+      "hosting": {
+        "facebook-clone": [
+          "facebook-clone-707jk"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "facebook-clone": "facebook-clone-707jk"
+  }
+}
